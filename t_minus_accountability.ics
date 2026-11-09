@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//T-Minus Milestone Tracker//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:tminus-20261109@gemini.local
+DTSTAMP:20261109T044702Z
+DTSTART:20261109T083000
+DTEND:20261109T090000
+SUMMARY:[T-5D] T-40h Remaining — Target 8h Today
+DESCRIPTION:Daily accountability check-in. Target: 8h. Projected end-of-day milestone: T-32h remaining.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tminus-20261110@gemini.local
+DTSTAMP:20261109T044702Z
+DTSTART:20261110T083000
+DTEND:20261110T090000
+SUMMARY:[T-4D] T-32h Remaining — Target 8h Today
+DESCRIPTION:Daily accountability check-in. Target: 8h. Projected end-of-day milestone: T-24h remaining.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tminus-20261111@gemini.local
+DTSTAMP:20261109T044702Z
+DTSTART:20261111T083000
+DTEND:20261111T090000
+SUMMARY:[T-3D] T-24h Remaining — Target 8h Today
+DESCRIPTION:Daily accountability check-in. Target: 8h. Projected end-of-day milestone: T-16h remaining.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tminus-20261112@gemini.local
+DTSTAMP:20261109T044702Z
+DTSTART:20261112T083000
+DTEND:20261112T090000
+SUMMARY:[T-2D] T-16h Remaining — Target 8h Today
+DESCRIPTION:Daily accountability check-in. Target: 8h. Projected end-of-day milestone: T-8h remaining.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tminus-20261113@gemini.local
+DTSTAMP:20261109T044702Z
+DTSTART:20261113T083000
+DTEND:20261113T090000
+SUMMARY:[T-1D] T-8h Remaining — Target 8h Today
+DESCRIPTION:Daily accountability check-in. Target: 8h. Projected end-of-day milestone: T-0h remaining.
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
